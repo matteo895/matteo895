@@ -38,7 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matteo895/matteo895/output/snake.svg" alt="Snake animation" />
 
 ###
 
