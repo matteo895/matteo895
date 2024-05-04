@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hello word 👋! sono Matteo Venturi, un appassionato sviluppatore web con una forte passione per la creazione di esperienze digitali coinvolgenti e intuitive. <br>Mi impegno a realizzare progetti che uniscono design accattivante  e funzionalità impeccabile, cercando di perfezionare le mie abilità e accrescere le mie skill. <br>Non vedo l'ora di connetterci e creare qualcosa di straordinario insieme!</h2>
 
 ###
@@ -52,10 +50,15 @@
 </div>
 
 ###
+<br clear="both">
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matteo895&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteo895&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+<br clear="both">
+<br clear="both">
+<br clear="both">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matteo895&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
