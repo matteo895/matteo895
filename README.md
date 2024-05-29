@@ -1,4 +1,5 @@
-<h2 align="left">Hello word 👋! sono Matteo Venturi, un appassionato sviluppatore web con una forte passione per la creazione di esperienze digitali coinvolgenti e intuitive. <br>Mi impegno a realizzare progetti che uniscono design accattivante  e funzionalità impeccabile, cercando di perfezionare le mie abilità e accrescere le mie skill. <br>Non vedo l'ora di connetterci e creare qualcosa di straordinario insieme!</h2>
+<h2 align="left">Hello word 👋!
+Sono Matteo Venturi, un appassionato sviluppatore web con una forte passione per la creazione di esperienze digitali coinvolgenti e intuitive. <br>Mi impegno a realizzare progetti che uniscono design accattivante  e funzionalità impeccabile, cercando di perfezionare le mie abilità e accrescere le mie skill. <br>Non vedo l'ora di connetterci e creare qualcosa di straordinario insieme!</h2>
 
 ###
 
